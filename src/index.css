@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  font-synthesis: none;
+
+  background-image: linear-gradient(
+    to bottom,
+    #273440,
+    #30639c,
+    #2fced2,
+    #16171c
+  );
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
